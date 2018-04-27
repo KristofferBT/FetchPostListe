@@ -1,0 +1,2419 @@
+﻿{
+  "uri": "/api/postliste/2018-04-12/2018-04-12/_/",
+  "response": {
+    "2018-04-12T00:00:00": {
+      "U": [
+        {
+          "Id": "d2ed211e-37c1-456e-be63-f2b20b2eebeb",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018-skjenk",
+          "SakNr": "18/00766",
+          "SakId": "18/00766",
+          "Tittel": "Ad. Oppgave over omsetning av alkoholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018",
+          "DokumentNr": "18/00766-8",
+          "DokumentType": "U",
+          "LopeNr": "18637/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Saigon Palace"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Vibeke Nedrebø",
+          "SakKontaktEpost": null,
+          "Extensions": null
+        },
+        {
+          "Id": "906c43be-ce93-4ee2-b770-b2a9d2bcc8b7",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018-skjenk",
+          "SakNr": "18/00766",
+          "SakId": "18/00766",
+          "Tittel": "Ad. Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018",
+          "DokumentNr": "18/00766-7",
+          "DokumentType": "U",
+          "LopeNr": "18626/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Lilly May as"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Vibeke Nedrebø",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762767",
+              "Tittel": "Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "34c3fa94-d097-43f8-be52-ee20830d5df3",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018-skjenk",
+          "SakNr": "18/00766",
+          "SakId": "18/00766",
+          "Tittel": "Ad.Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018",
+          "DokumentNr": "18/00766-10",
+          "DokumentType": "U",
+          "LopeNr": "18652/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Kina Silkeveien as"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Vibeke Nedrebø",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762806",
+              "Tittel": "Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "1f348943-1d87-4520-acd8-1d9606261346",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 200/1943, Pynten 5 - Forhåndskonferanse",
+          "SakNr": "17/13675",
+          "SakId": "17/13675",
+          "Tittel": "Forhåndskonferanse",
+          "DokumentNr": "17/13675-7",
+          "DokumentType": "U",
+          "LopeNr": "18796/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Feste"
+          ],
+          "DokumentDato": "2018-04-12T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-12T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Dag Harald Leerstang",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763119",
+              "Tittel": "Forhåndskonferanse",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "a9a2e9ee-ca19-4d8a-acdb-f1b3123c84c7",
+          "Avdeling": "Bygg- og eiendomsdrift",
+          "SakTittel": "Anlegg 7148 - Forlengelse av fremleieforhold kiosk i Frisklivsenteret mellom Porsgrunn kommune og Urædd Håndballgruppe  ",
+          "SakNr": "18/04190",
+          "SakId": "18/04190",
+          "Tittel": "Forlengelse av fremleieavtale mellom Porsgrunn kommune og Urædd Håndballgruppe - Kiosken i Frisklivsenteret ",
+          "DokumentNr": "18/04190-1",
+          "DokumentType": "U",
+          "LopeNr": "18611/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Urædd Håndballgruppe"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Anders Aamot",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762739",
+              "Tittel": "Forlengelse av fremleieavtale mellom Porsgrunn kommune og Urædd Håndballgruppe - Kiosken i Frisklivsenteret",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762740",
+              "Tittel": "Forlengelse av leieavtale",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762741",
+              "Tittel": "7148 - Fremleieavtale Kafe Friskliv - IF Urædd ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762742",
+              "Tittel": "7148 - avtale om overføring av fremleieavtale ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "5e9f854a-f056-475f-ba05-3ba8b1f2a7ec",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Serveringsbevilling -  STUDENTSAMFUNNET I GRENLAND -Studenthus Fabrikken",
+          "SakNr": "17/13780",
+          "SakId": "17/13780",
+          "Tittel": "Forventet Omsetning skjenkebevilling  for 2018.",
+          "DokumentNr": "17/13780-10",
+          "DokumentType": "U",
+          "LopeNr": "18615/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Øyvind Larsen"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Vibeke Nedrebø",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762748",
+              "Tittel": "Forventet Omsetning skjenkebevilling  for 2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "d4da488e-c259-4dac-b57e-a9144aab2f0b",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 121/1957, Vestheimvegen - Pors Hageby byggetrinn 1 - Oppføring av to firemannsboliger to tomannsboliger, med tilhørende sportsboder og carporter",
+          "SakNr": "18/03563",
+          "SakId": "18/03563",
+          "Tittel": "Gbnr. 121/1957, Vestheimvegen - Pors Hageby byggetrinn 1 - Oppføring av to 4-mannsboliger to 2-mannsboliger, med tilhørende sportsboder og carporter samt infrastruktur, parkering og lekearealer - Din søknad er avvist ",
+          "DokumentNr": "18/03563-2",
+          "DokumentType": "U",
+          "LopeNr": "18603/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Graf Entreprenør AS"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mariann Stubberød",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762809",
+              "Tittel": "Gbnr. 121/1957, Vestheimvegen - Pors Hageby byggetrinn 1 - Oppføring av to 4-mannsboliger to 2-mannsboliger, med tilhørende sportsboder og carporter samt infrastruktur, parkering og lekearealer - Din søknad er avvist ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762828",
+              "Tittel": "Forvaltningsloven Orientering om klageadgang ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762829",
+              "Tittel": "Søknad om tillatelse til tiltak - Pors Hageby - Epost 1 av 2",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762830",
+              "Tittel": "00 Følgebrev ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762831",
+              "Tittel": "01 Søknad om tillatelse til tiltak ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762832",
+              "Tittel": "02 Opplysninger gitt i nabovarsel ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762833",
+              "Tittel": "03 Kvittering for nabovarsel ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762834",
+              "Tittel": "04 Gjennomføringsplan ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762835",
+              "Tittel": "05-1 Ansvarsrett - Graf Entreprenør AS ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762836",
+              "Tittel": "05-2 Ansvarsrett - Grenland Våtrom AS ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762837",
+              "Tittel": "05-3 Ansvarsrett - Multiconsult ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762838",
+              "Tittel": "05-4 Ansvarsrett - Multifag AS ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762839",
+              "Tittel": "05-6 Ansvarsrett - Riis consult ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762840",
+              "Tittel": "05-7 Ansvarsrett Sørensen ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762841",
+              "Tittel": "06 Sluttrapport med avfallsplan ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762842",
+              "Tittel": "07 Boligspesifikasjoner ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762843",
+              "Tittel": "08 Skriv fra Sørensen Maskin vedr. VVA ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762844",
+              "Tittel": "09 Merknad fra nabo ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762845",
+              "Tittel": "14 Rapport støyforhold, Akustikk-Konsult AS ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762846",
+              "Tittel": "10201747-01-RIG-NOT-001_rev00. ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762847",
+              "Tittel": "10201747-01-RIG-RAP-001_rev01 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762848",
+              "Tittel": "Pors boligområde - Situasjonsplan Byggetrinn 1 - r4.24.01.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762849",
+              "Tittel": "Pors Hageby 1-4 - Plan, snitt og fasader - 07.02.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762850",
+              "Tittel": "Pors Hageby 9-12 - Plan, snitt og fasader - 07.02.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762851",
+              "Tittel": "Søknad om tillatelse til tiltak - Pors Hageby - Epost 2 av 2",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762852",
+              "Tittel": "Pors Hageby 9-12 - Plan, snitt og fasader - 07.02.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762853",
+              "Tittel": "Pors Hageby 5-6 - Plan, snitt og fasader - 07.02.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762854",
+              "Tittel": "Pors Hageby 7-8 - Plan, snitt og fasader - 07.02.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "1218c08e-bf56-4c79-a2a5-368e86f1d310",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 121/1892, Plassen 40-42 - Oppføring av boligbygg - Bygg 5 og 6",
+          "SakNr": "16/05459",
+          "SakId": "16/05459",
+          "Tittel": "Gbnr. 121/1976 (1892), Plassen 42 - Midlertidig brukstillatelse",
+          "DokumentNr": "16/05459-14",
+          "DokumentType": "U",
+          "LopeNr": "18807/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "JM Norge AS"
+          ],
+          "DokumentDato": "2018-04-12T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-12T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Isak Sølie",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763188",
+              "Tittel": "Gbnr. 121/1976 (1892), Plassen 42 - Midlertidig brukstillatelse",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "68ef77c2-1e85-43d7-9914-3e48712e6b30",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 200/2614, Storgata 216 - Ferdigmelding",
+          "SakNr": "18/03093",
+          "SakId": "18/03093",
+          "Tittel": "Gbnr. 200/2614, Storgata 216 - Tilbakemelding på anmodning om ferdigattest",
+          "DokumentNr": "18/03093-2",
+          "DokumentType": "U",
+          "LopeNr": "18790/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Espen Strøm"
+          ],
+          "DokumentDato": "2018-04-12T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-12T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Isak Sølie",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763106",
+              "Tittel": "Gbnr. 200/2614, Storgata 216 - Tilbakemelding på anmodning om ferdigattest",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763111",
+              "Tittel": "Gbnr. 200/2614, Storgata 216 - Anmodning om ferdigattest",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "cb5df983-fe7a-45b3-9649-dbf2d95d39e0",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 33/283, Sundet 2 - Søknad om  oppføring av 3 anneks",
+          "SakNr": "13/03325",
+          "SakId": "13/03325",
+          "Tittel": "Gbnr. 33/283, Sundet 2 - Søknad om  oppføring av 3 anneks til bolig samt rive uthus - Rammetillatelse",
+          "DokumentNr": "13/03325-6",
+          "DokumentType": "U",
+          "LopeNr": "18693/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Steffan Lithell"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Bente Sjåberg",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762883",
+              "Tittel": "Gbnr. 33/283, Sundet 2 - Søknad om  oppføring av 3 anneks til bolig samt rive uthus - Rammetillatelse",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763109",
+              "Tittel": "gebyr 2018 og opplysninger om adgang til å klage på enkeltvedtak ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "c1c200ce-e9c2-455a-a6a1-6fd2df24991e",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 33/35, Sundet 8C - Tilbygg",
+          "SakNr": "18/02948",
+          "SakId": "18/02948",
+          "Tittel": "Gbnr. 33/35, Sundet 8C - Tilbygg - Søknad i retur ",
+          "DokumentNr": "18/02948-5",
+          "DokumentType": "U",
+          "LopeNr": "18585/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Stavern Taksering AS"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Bente Sjåberg",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762654",
+              "Tittel": "Gbnr. 33/35, Sundet 8C - Tilbygg - Søknad i retur ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762782",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762783",
+              "Tittel": "Søknad",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762798",
+              "Tittel": "gebyr 2018 og opplysninger om adgang til å klage på enkeltvedtak.pdf",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "660505d6-20ef-4baa-ab22-012c72dc2fb4",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 39/193, Bergsbygdavegen 396 - Bruksendring",
+          "SakNr": "17/12238",
+          "SakId": "17/12238",
+          "Tittel": "Gbnr. 39/193, Bergsbygdavegen 396 - Oversendelse av klagesak",
+          "DokumentNr": "17/12238-18",
+          "DokumentType": "U",
+          "LopeNr": "18596/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Fylkesmannen i Telemark"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Kristin Beate Bast Sørum",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762679",
+              "Tittel": "Gbnr. 39/193, Bergsbygdavegen 396 - Oversendelse av klagesak",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "759836",
+              "Tittel": "Vedtak UMB, 03042018, Sak 26/18, Gbnr. 39/193, Bergsbygdavegen 396 - Klage på tillatelse til tilbygg",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "758042",
+              "Tittel": "Gbnr. 39/193, Bergsbygdavegen 396 - Tillegsdokumentasjon til utvalgsmøte den 3.april 2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "758043",
+              "Tittel": "Målsatte kart",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "758044",
+              "Tittel": "Geodata, kart og mål",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "745739",
+              "Tittel": "Gbnr. 39/193, Bergsbygdavegen 396 - Klage på tillatelse til tilbygg",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "748871",
+              "Tittel": "Vedlegg 1 -søknaden.pdf",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "748880",
+              "Tittel": "Vedlegg 2 - tillatelse.pdf",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "748890",
+              "Tittel": "Vedlegg 3 - Klage.pdf",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "748891",
+              "Tittel": "Vedlegg 4 - Supplering til klage.pdf",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762709",
+              "Tittel": " Bergsbygdavegen 396 - ettersending av merknader og Rådmannens vudering  ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762710",
+              "Tittel": "innsendt vedlegg 25.03.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762711",
+              "Tittel": "Søknad, målsatt situasjonskart ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762712",
+              "Tittel": "søknad, eksisterende veranda ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762713",
+              "Tittel": "søknad, ny omsøkt veranda. ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "ba3db21c-29a4-47c6-812d-f3dad0638af9",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 46/1406, Tollskogvegen 24 - Oppretting av ny grunneiendom",
+          "SakNr": "18/02095",
+          "SakId": "18/02095",
+          "Tittel": "Gbnr. 46/1406, Tollskogvegen 24 - Oppretting av ny grunneiendom - Melding til tinglysing",
+          "DokumentNr": "18/02095-3",
+          "DokumentType": "U",
+          "LopeNr": "18686/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Statens kartverk, Tinglysing"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Martin Lillegrend",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762875",
+              "Tittel": "Gbnr. 46/1406, Tollskogvegen 24 - Oppretting av ny grunneiendom - Melding til tinglysing",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "11d60c3b-adbc-45db-a864-9b4fe70708c4",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 56/222, Frierbakken 5 - Oppføring av garasje og uthus",
+          "SakNr": "18/03577",
+          "SakId": "18/03577",
+          "Tittel": "Gbnr. 56/222, Frierbakken 5 - Oppføring av garasje og uthus - Mangelbrev",
+          "DokumentNr": "18/03577-2",
+          "DokumentType": "U",
+          "LopeNr": "18697/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Sivilarkitekt Gunnar Dale AS"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mir Zabihullah Najmi",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762894",
+              "Tittel": "Gbnr. 56/222, Frierbakken 5 - Oppføring av garasje og uthus - Mangelbrev",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762992",
+              "Tittel": "Gebyrregulativ for Byggesak 2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "f96952ee-3668-475e-9f55-01d3755eb631",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 61/100, Brånanvegen 27 - Boliger",
+          "SakNr": "18/04074",
+          "SakId": "18/04074",
+          "Tittel": "Gbnr. 61/100, Brånanvegen 27 - Forhåndskonferanse - Forslag til møtetidspunkt",
+          "DokumentNr": "18/04074-2",
+          "DokumentType": "U",
+          "LopeNr": "18826/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Urszula Malgorzata Najowicz Ogorek"
+          ],
+          "DokumentDato": "2018-04-12T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-12T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Isak Sølie",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763255",
+              "Tittel": "Gbnr. 61/100, Brånanvegen 27 - Forhåndskonferanse - Forslag til møtetidspunkt",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "1dc0080d-5742-4a20-bcd7-dc6259c0ad7d",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 67/159, Løvsjøringen 10 - Rive eksisterende garasje og oppføre ny",
+          "SakNr": "18/00761",
+          "SakId": "18/00761",
+          "Tittel": "Gbnr. 67/159, Løvsjøringen 10 - Endring av areal fra tidligere gitt tillatelse, samt oppføring av utvendig trapp - Tillatelse",
+          "DokumentNr": "18/00761-5",
+          "DokumentType": "U",
+          "LopeNr": "15984/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Unn Haugland og Hans Arne Sahlin"
+          ],
+          "DokumentDato": "2018-03-26T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-03-26T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Jorun Mæland Håtveit",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "757677",
+              "Tittel": "Gbnr. 67/159, Løvsjøringen 10 - Endring av areal fra tidligere gitt tillatelse, samt oppføring av utvendig trapp - Tillatelse",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "b9d6918f-c4d4-4aee-8ce6-97cc7d036964",
+          "Avdeling": "Brann- og feiervesenet",
+          "SakTittel": "Gbnr. 67/245, Lundedalen 51, 3940 Porsgrunn, BEHA fabrikker AS - Fellestilsyn",
+          "SakNr": "18/04189",
+          "SakId": "18/04189",
+          "Tittel": "Gbnr. 67/245, Lundedalen 51, 3940 Porsgrunn, BEHA fabrikker AS - Avtale om fellestilsyn",
+          "DokumentNr": "18/04189-1",
+          "DokumentType": "U",
+          "LopeNr": "18604/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "BEHA Fabrikker AS"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Arne Kristian Øvland",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762688",
+              "Tittel": "Gbnr. 67/245, Lundedalen 51, 3940 Porsgrunn, BEHA fabrikker AS - Avtale om fellestilsyn",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "83039be4-fefa-4d7b-a054-7969034c71eb",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 81/48, Nygata 5 - Hagestue",
+          "SakNr": "18/03582",
+          "SakId": "18/03582",
+          "Tittel": "Gbnr. 81/48, Nygata 5 - Hagestue - Foreløpig svar",
+          "DokumentNr": "18/03582-2",
+          "DokumentType": "U",
+          "LopeNr": "18810/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Geir Ravn Aasoldsen"
+          ],
+          "DokumentDato": "2018-04-12T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-12T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mariann Stubberød",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763201",
+              "Tittel": "Gbnr. 81/48, Nygata 5 - Hagestue - Foreløpig svar",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763215",
+              "Tittel": "Gebyrregulativ for Byggesak 2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "cffd4157-fc48-469a-9258-f202aa1af2d5",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Knutepunkt Porsgrunn- mulighetsstudie",
+          "SakNr": "17/04157",
+          "SakId": "17/04157",
+          "Tittel": "Mulighetsstudie Knutepunkt Porsgrunn- rapporter fra åpent møte (epost 1 av 2)",
+          "DokumentNr": "17/04157-38",
+          "DokumentType": "U",
+          "LopeNr": "18714/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "robert@k2000.no",
+            "christine.b.hermansen@gmail.com",
+            "njal.sterri@usn.no",
+            "geir.slaatta.gundersen@gmail.com",
+            "jens.chr@thystad.com",
+            "joerge4@online.no",
+            "werner.nystad@sf-nett.no",
+            "anblaker@online.no",
+            "tommy@r8property.no",
+            "fredrikengh@hotmail.no",
+            "andrea@lunde.info",
+            "kelly_5488@hotmail.com",
+            "oystein.hovden@rejlers.no",
+            "oscar.a@online.no",
+            "tnm217@online.no",
+            "Porsgrunn Utvikling v/ Halvor Østerli",
+            "Gunnar Svarstad",
+            "Thor Einar Sørvik",
+            "Bjørn Stulen",
+            "Kristian Larsen",
+            "Rebekka L. Øvre-Eide",
+            "Karianne Schanke",
+            "Petter Wendelborg",
+            "Lars Iver Larsen",
+            "Stian Karlsen",
+            "Torstein Fjeld",
+            "el consulting",
+            "Mariann Dellnes",
+            "Tommy Ballestad",
+            "Nanfrid Aasmoe",
+            "Jon Rodsatre",
+            "Kristine Langerød",
+            "Marianne Sørum",
+            "Brita Straume",
+            "Frøydis Garmo Hovden",
+            "Alf Foerli",
+            "kristian tobiasson",
+            "Esben Storvand",
+            "Gunnar West Sørlie",
+            "Edith Kristina Olsen",
+            "Morten Wendelborg",
+            "John Sanden",
+            "Advokatfirma Geirr Frønes AS",
+            "Per Kristian Pedersen",
+            "Schankebygg AS",
+            "Cecilie Kult"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Helena Eide",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762946",
+              "Tittel": "Mulighetsstudie Knutepunkt Porsgrunn- rapporter fra åpent møte (epost 1 av 2)",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762947",
+              "Tittel": "Parallelloppdrag fra Team Dyrvik Arkitekter (rapport), 18.03.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762948",
+              "Tittel": "Utdrag fra presentasjon 10.04.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "596d9d31-57da-4d81-a791-d1cfbd8007b5",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Knutepunkt Porsgrunn- mulighetsstudie",
+          "SakNr": "17/04157",
+          "SakId": "17/04157",
+          "Tittel": "Mulighetsstudie Knutepunkt Porsgrunn- Rapporter fra åpent møte (epost 2 av 2)",
+          "DokumentNr": "17/04157-39",
+          "DokumentType": "U",
+          "LopeNr": "18717/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "robert@k2000.no",
+            "christine.b.hermansen@gmail.com",
+            "njal.sterri@usn.no",
+            "geir.slaatta.gundersen@gmail.com",
+            "jens.chr@thystad.com",
+            "joerge4@online.no",
+            "werner.nystad@sf-nett.no",
+            "anblaker@online.no",
+            "tommy@r8property.no",
+            "fredrikengh@hotmail.no",
+            "andrea@lunde.info",
+            "kelly_5488@hotmail.com",
+            "oystein.hovden@rejlers.no",
+            "oscar.a@online.no",
+            "tnm217@online.no",
+            "Porsgrunn Utvikling v/ Halvor Østerli",
+            "Gunnar Svarstad",
+            "Thor Einar Sørvik",
+            "Bjørn Stulen",
+            "Kristian Larsen",
+            "Rebekka L. Øvre-Eide",
+            "Karianne Schanke",
+            "Petter Wendelborg",
+            "Lars Iver Larsen",
+            "Stian Karlsen",
+            "Torstein Fjeld",
+            "el consulting",
+            "Mariann Dellnes",
+            "Tommy Ballestad",
+            "Nanfrid Aasmoe",
+            "Jon Rodsatre",
+            "Kristine Langerød",
+            "Marianne Sørum",
+            "Brita Straume",
+            "Frøydis Garmo Hovden",
+            "Alf Foerli",
+            "kristian tobiasson",
+            "Esben Storvand",
+            "Gunnar West Sørlie",
+            "Edith Kristina Olsen",
+            "Morten Wendelborg",
+            "John Sanden",
+            "Advokatfirma Geirr Frønes AS",
+            "Per Kristian Pedersen",
+            "Schankebygg AS",
+            "Cecilie Kult"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Helena Eide",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762970",
+              "Tittel": "Mulighetsstudie Knutepunkt Porsgrunn- Rapporter fra åpent møte (epost 2 av 2)",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762971",
+              "Tittel": "Parallelloppdrag fra TeamUrbanLINK (rapport), 18.03.2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "add590b9-a237-40b3-85e6-924f91c9d339",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 82/26, Zoarbakken 20 - Tilbygg, bolig",
+          "SakNr": "18/02834",
+          "SakId": "18/02834",
+          "Tittel": "Ønske om uttalelse vedrørende Zoarbakken 20",
+          "DokumentNr": "18/02834-4",
+          "DokumentType": "U",
+          "LopeNr": "18814/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Fylkesmannen i Telemark",
+            "Telemark fylkeskommune"
+          ],
+          "DokumentDato": "2018-04-12T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-12T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Ena Selimotic",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763209",
+              "Tittel": "Ønske om uttalelse vedrørende Zoarbakken 20",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763216",
+              "Tittel": "Zoarbakken 20 vedlegg ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "c1e68383-b9fb-4951-8fdc-4194907b5b2e",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Oppgave over omsetning av alkoholholdige drikkevarer for 2017 og opplysninger om forventet omsetning 2018-skjenk",
+          "SakNr": "18/00766",
+          "SakId": "18/00766",
+          "Tittel": "Oppgave over Omsetning av alkoholholdig drikkevarer for 2017 og opplysninger om forventet omsetning 2018",
+          "DokumentNr": "18/00766-6",
+          "DokumentType": "U",
+          "LopeNr": "18618/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Elvebredden kafe"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Vibeke Nedrebø",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762757",
+              "Tittel": "Oppgave over Omsetning av alkoholholdig drikkevarer for 2017 og opplysninger om forventet omsetning 2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "8a92fd77-95bc-41b4-a607-6b2460f92e14",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Reguleringsplan for RV. 36 Sam Eydes gate - Klevstrand krysset",
+          "SakNr": "16/07855",
+          "SakId": "16/07855",
+          "Tittel": "Rv. 36 Sam Eydes gate - Klevstrand kunngjøring",
+          "DokumentNr": "16/07855-26",
+          "DokumentType": "U",
+          "LopeNr": "18400/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "rs@nve.no",
+            "post@t-fk.no",
+            "'fmtepost@fylkesmannen.no'",
+            "Statens Vegvesen Region Sør"
+          ],
+          "DokumentDato": "2018-04-10T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-10T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Ena Selimotic",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762208",
+              "Tittel": "Rv. 36 Sam Eydes gate - Klevstrand kunngjøring ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762209",
+              "Tittel": "Plankart_17012018.sos",
+              "Filendelse": "SOS",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "3959e5ea-fc2f-4b32-8113-c875d705453d",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "1. mai arrangement 2018 - demonstrasjonstog",
+          "SakNr": "18/03976",
+          "SakId": "18/03976",
+          "Tittel": "Søknad om 1. mai arrangement 2018 - demonstrasjonstog",
+          "DokumentNr": "18/03976-2",
+          "DokumentType": "U",
+          "LopeNr": "18688/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Anders Langerød"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Hege Jensen",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762880",
+              "Tittel": "Søknad om 1. mai arrangement 2018 - demonstrasjonstog",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "2fea8bd8-450e-4c69-b62b-9c90088a0df0",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 46/427, Bjørnhullvegen 29 - Oppretting av matrikkelenhet",
+          "SakNr": "18/02531",
+          "SakId": "18/02531",
+          "Tittel": "Vedrørende søknad om utskilling av tomter på gbnr. 46/427.",
+          "DokumentNr": "18/02531-3",
+          "DokumentType": "U",
+          "LopeNr": "18718/2018",
+          "Avsendere": [
+            null
+          ],
+          "Mottakere": [
+            "Magnus Davidsen"
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Dag Harald Leerstang",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762973",
+              "Tittel": "Vedrørende søknad om utskilling av tomter på gbnr. 46/427 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762974",
+              "Tittel": "Avstandserklæring ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762975",
+              "Tittel": "Gebyrregulativ for Byggesak 2018 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762976",
+              "Tittel": "Rekvisisjon PBL§20-1m ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762977",
+              "Tittel": "Søknad om tillatelse til tiltak uten ansvarsrett ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        }
+      ],
+      "I": [
+        {
+          "Id": "fc07253d-a8bb-4381-8192-6864129ca9f5",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Gbnr. 200/2518, Storgata 126 - Innsyn i byggesaksmappe",
+          "SakNr": "18/04236",
+          "SakId": "18/04236",
+          "Tittel": "Gbnr. 200/2518, Storgata 126 - Forespørsl om innsyn i byggesaksmappe",
+          "DokumentNr": "18/04236-1",
+          "DokumentType": "I",
+          "LopeNr": "18803/2018",
+          "Avsendere": [
+            "Stig Engebretsen"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-10T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-10T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Heidi Bjørvik Johansen",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763175",
+              "Tittel": "Gbnr. 200/2518, Storgata 126 - Forespørsl om innsyn i byggesaksmappe",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "d839da53-d175-451b-9835-0b4d1a012ba9",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 27/104, Bjønnesvegen 568 - Tilbygg, fritidsbolig",
+          "SakNr": "18/04251",
+          "SakId": "18/04251",
+          "Tittel": "Gbnr. 27/104, Bjønnesvegen 568 - Søknad om tilbygg, fritidsbolig",
+          "DokumentNr": "18/04251-1",
+          "DokumentType": "I",
+          "LopeNr": "18838/2018",
+          "Avsendere": [
+            "Gjestland Tormod"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-10T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-10T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Bente Sjåberg",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763291",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763292",
+              "Tittel": "CCF10042018_00000",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763293",
+              "Tittel": "CCF10042018_00001",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "7c54e58f-e530-4347-958d-462bc6d51c17",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 43/92, Stasjonsvegen 9 - Bruksendring",
+          "SakNr": "17/01230",
+          "SakId": "17/01230",
+          "Tittel": "Gbnr. 43/92, Stasjonsvegen 9 - Bruksendring",
+          "DokumentNr": "17/01230-11",
+          "DokumentType": "I",
+          "LopeNr": "18842/2018",
+          "Avsendere": [
+            "Arkitektkontoret Henning Karlsen AS"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mir Zabihullah Najmi",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763297",
+              "Tittel": "Leilighetsbygg   43_92  Stasjonsveien 9  Eidanger     11.04.18",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "4417e6f0-7958-484d-a715-2c310b679875",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Gbnr. 45/14, Bjerketvedtvegen 50 - Innsyn i byggesaksmappe",
+          "SakNr": "18/04234",
+          "SakId": "18/04234",
+          "Tittel": "Gbnr. 45/14, Bjerketvedtvegen 50 - Forespørsel om innsyn i byggesaksmappe - besøk på lesesal",
+          "DokumentNr": "18/04234-1",
+          "DokumentType": "I",
+          "LopeNr": "18802/2018",
+          "Avsendere": [
+            "Hege Bratvold Haugen"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-09T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-09T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Heidi Bjørvik Johansen",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763173",
+              "Tittel": "Gbnr. 45/14, Bjerketvedtvegen 50 - Forespørsel om innsyn i byggesaksmappe - besøk på lesesal",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "49c7b3f9-bb64-4a9d-8e98-12eb9527a826",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 46/642, Håndverksvegen 1 - Påbygg",
+          "SakNr": "17/04395",
+          "SakId": "17/04395",
+          "Tittel": "Gbnr. 46/642, Håndverksvegen 1 - Uttalelse til byggegrense",
+          "DokumentNr": "17/04395-9",
+          "DokumentType": "I",
+          "LopeNr": "18847/2018",
+          "Avsendere": [
+            "Statens Vegvesen Region Sør"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mir Zabihullah Najmi",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763310",
+              "Tittel": "Uttalelse til byggegrense",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763311",
+              "Tittel": "17_16028-3Uttale byggegrense - fylkesveg 32 - gnr. 46 bnr. 642 - Håndverksvegen 1 i Porsgrunn kommune - tilbygg til garasje",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "f4817f7a-c314-47b8-bab4-93f2457bd3c7",
+          "Avdeling": "Brann- og feiervesenet",
+          "SakTittel": "Gbnr. 68/32, Måltrostvegen 29 - konservering av oljetank med stabile mineralske fyllmasser",
+          "SakNr": "18/04243",
+          "SakId": "18/04243",
+          "Tittel": "Gbnr. 68/32, Måltrostvegen 29 - Ferdigmelding - konservering av oljetank med stabile mineralske fyllmasser",
+          "DokumentNr": "18/04243-1",
+          "DokumentType": "I",
+          "LopeNr": "18822/2018",
+          "Avsendere": [
+            "NorTank - Emitek AS"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Morten Meen Gallefos",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763241",
+              "Tittel": "Ferdigmelding - konservering av oljetank med stabile mineralske fyllmasser",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763242",
+              "Tittel": "Del av epost - 1",
+              "Filendelse": "TXT",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763243",
+              "Tittel": "Del av epost - 2",
+              "Filendelse": "TXT",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763245",
+              "Tittel": "Del av epost - 3",
+              "Filendelse": "TXT",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763246",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "b79f8d26-8aa8-471b-9c03-c3b77aaca0b2",
+          "Avdeling": "Bygg- og eiendomsdrift",
+          "SakTittel": "Gbnr. 69/4 - Hillsveg 30 i Porsgrunn kommune - garanti",
+          "SakNr": "18/04283",
+          "SakId": "18/04283",
+          "Tittel": "Gbnr. 69/4 - Hillsveg 30 i Porsgrunn kommune - garanti",
+          "DokumentNr": "18/04283-1",
+          "DokumentType": "I",
+          "LopeNr": "18926/2018",
+          "Avsendere": [
+            "Danske Bank"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-09T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-09T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Jan Roger Bredesen",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763443",
+              "Tittel": "Gbnr. 69/4 - Hillsveg 30 i Porsgrunn kommune - garanti",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "e1f44b08-6142-4b16-bcca-7e2935b7cc23",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Godtgjørelse av representantskapsmedlemmer - Grenland Havn",
+          "SakNr": "18/04253",
+          "SakId": "18/04253",
+          "Tittel": "Godtgjøringssatser 2017 ",
+          "DokumentNr": "18/04253-1",
+          "DokumentType": "I",
+          "LopeNr": "18848/2018",
+          "Avsendere": [
+            "Grenland Havn IKS"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Hilde Bjørntvedt",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763316",
+              "Tittel": "Godtgjøringssatser 2017 ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763317",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "527b14bb-2f23-45e5-99eb-ac0ce5ffcd6f",
+          "Avdeling": "Bygg- og eiendomsdrift",
+          "SakTittel": "Juridisk bruksoverlating av bolig nr. 2315 i Jønholtdalen II Borettslag",
+          "SakNr": "18/04255",
+          "SakId": "18/04255",
+          "Tittel": "Juridisk bruksoverlating av bolig nr. 2315 i Jønholtdalen II Borettslag",
+          "DokumentNr": "18/04255-1",
+          "DokumentType": "I",
+          "LopeNr": "18853/2018",
+          "Avsendere": [
+            "Porsgrunn Bamble Borgestad Boligbyggelag"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-10T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-10T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Heidi Birgitte Røed",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763442",
+              "Tittel": "Juridisk bruksoverlating av bolig nr. 2315 i Jønholtdalen II Borettslag",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "436bf5d4-1ddb-4fcf-8925-4b2cb0863a55",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Utslippsrapport 2017 - Eramet Porsgrunn",
+          "SakNr": "18/04249",
+          "SakId": "18/04249",
+          "Tittel": "Kopi av brev - Godkjenning av utslippsrapport 2017 - Eramet Porsgrunn",
+          "DokumentNr": "18/04249-1",
+          "DokumentType": "I",
+          "LopeNr": "18836/2018",
+          "Avsendere": [
+            "Miljødirektoratet"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-10T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-10T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Cathrine Nedberg",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763283",
+              "Tittel": "Godkjenning av utslippsrapport 2017 - Eramet Porsgrunn",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763284",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "2ed64db3-d523-4ed0-b452-f07c161fc2d4",
+          "Avdeling": "Kultur, idrett og fritid",
+          "SakTittel": "Aktivitetstilskudd musikkorganisasjoner 2018 - Herøya musikkorps",
+          "SakNr": "18/04241",
+          "SakId": "18/04241",
+          "Tittel": "Søknad om aktivitetstilskudd - Herøya musikkorps",
+          "DokumentNr": "18/04241-1",
+          "DokumentType": "I",
+          "LopeNr": "18819/2018",
+          "Avsendere": [
+            "Herøya Musikkorps"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mette Weitemeyer",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763231",
+              "Tittel": "Søknad om aktivitetstilskudd - Herøya musikkorps",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763232",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "cc6cdb38-3198-4d0d-a253-1872565ecc35",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Arrangement - Porsgrunn internasjonale teaterfestival PIT 2018",
+          "SakNr": "18/04244",
+          "SakId": "18/04244",
+          "Tittel": "Søknad om arrangement - Porsgrunn internasjonale teaterfestival PIT 2018",
+          "DokumentNr": "18/04244-1",
+          "DokumentType": "I",
+          "LopeNr": "18825/2018",
+          "Avsendere": [
+            "Grenland Friteater"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Hege Jensen",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763253",
+              "Tittel": "PIT Arrangementsøknad",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763254",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "6810aa2e-0320-4af3-8d51-2e2eefe5a455",
+          "Avdeling": "Kultur, idrett og fritid",
+          "SakTittel": "Arrangementstilskudd -  Nguyen Booking & Event",
+          "SakNr": "18/04196",
+          "SakId": "18/04196",
+          "Tittel": "Søknad om arrangementtilskudd  NGUYEN BOOKING & EVENT (FAIRGATE & DAYLIGHT MOON) ",
+          "DokumentNr": "18/04196-1",
+          "DokumentType": "I",
+          "LopeNr": "18647/2018",
+          "Avsendere": [
+            "NGUYEN BOOKING & EVENT (FAIRGATE & DAYLIGHT MOON) "
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mette Weitemeyer",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "762799",
+              "Tittel": "Søknad om arrangementtilskudd",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762800",
+              "Tittel": "XML kode 700918_ULXOMW",
+              "Filendelse": "XML",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762801",
+              "Tittel": "Vedlegg 1",
+              "Filendelse": "JPG",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762802",
+              "Tittel": "Vedlegg 2",
+              "Filendelse": "JPG",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "762803",
+              "Tittel": "Vedlegg 3",
+              "Filendelse": "JPG",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "e7fc435b-de5c-4241-9bfe-a1042bdad9d6",
+          "Avdeling": "Kultur, idrett og fritid",
+          "SakTittel": "Driftstilskudd 2018 - 1. Herøya speidergruppe",
+          "SakNr": "18/04246",
+          "SakId": "18/04246",
+          "Tittel": "Søknad om driftstilskudd 2018 - 1. Herøya speidergruppe",
+          "DokumentNr": "18/04246-1",
+          "DokumentType": "I",
+          "LopeNr": "18831/2018",
+          "Avsendere": [
+            "1. Herøya speidergruppe"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Jørgen Olsvoll",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763265",
+              "Tittel": "Søknad om driftstilskudd 2018 - 1. Herøya speidergruppe",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763266",
+              "Tittel": "2017 Regnskap",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763267",
+              "Tittel": "2017 Årsrapport 1. Herøya",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763268",
+              "Tittel": "Budsjettskjema 2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763269",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "1397c647-1bc9-478a-a47f-27e5cdb345cd",
+          "Avdeling": "Kultur, idrett og fritid",
+          "SakTittel": "Driftstilskudd 2018 - Porsgrunn Misjonskirke ",
+          "SakNr": "18/04285",
+          "SakId": "18/04285",
+          "Tittel": "Søknad om driftstilskudd 2018 - Porsgrunn Misjonskirke ",
+          "DokumentNr": "18/04285-1",
+          "DokumentType": "I",
+          "LopeNr": "18928/2018",
+          "Avsendere": [
+            "Porsgrunn Misjonskirke misjonsforbundet"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Mette Weitemeyer",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763407",
+              "Tittel": "Søknad om driftstilskudd 2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763408",
+              "Tittel": "Årsberetning for 2017 til Årsmøte PMK 2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763409",
+              "Tittel": "Resultatrapport 2017 underskrevet av regnskapsfører",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763410",
+              "Tittel": "Signert referat fra årsmøtet 15.02.2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763411",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "fb9924de-b293-4550-996e-6c3464c77afe",
+          "Avdeling": "Kultur, idrett og fritid",
+          "SakTittel": "Driftstilskudd 2018 - Speiderhytta Trollhaugen",
+          "SakNr": "18/04248",
+          "SakId": "18/04248",
+          "Tittel": "Søknad om driftstilskudd 2018 - Speiderhytta Trollhaugen",
+          "DokumentNr": "18/04248-1",
+          "DokumentType": "I",
+          "LopeNr": "18832/2018",
+          "Avsendere": [
+            "1. Herøya speidergruppe"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-11T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-11T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Jørgen Olsvoll",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763276",
+              "Tittel": "Søknad om driftstilskudd 2018 - Speiderhytta Trollhaugen",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763277",
+              "Tittel": "2017 Regnskap",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763278",
+              "Tittel": "2017 Årsrapport 1. Herøya",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763279",
+              "Tittel": "Budsjettskjema 2018",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763280",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "2501ed59-33b2-403f-a8f7-5f7a46dca963",
+          "Avdeling": "Serviceavdelingen",
+          "SakTittel": "Serveringsbevilling -  RESTAURANT ZORBA PORSGRUNN AS ",
+          "SakNr": "17/09242",
+          "SakId": "17/09242",
+          "Tittel": "Tilsyn - vedtak om stans -  RESTAURANT ZORBA PORSGRUNN AS ",
+          "DokumentNr": "17/09242-33",
+          "DokumentType": "I",
+          "LopeNr": "18782/2018",
+          "Avsendere": [
+            "Arbeidstilsynet"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-05T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-05T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Stian Stiansen",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763097",
+              "Tittel": "Tilsyn - vedtak om stans ",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "aeb391bd-1254-405b-86e9-dec75f3b65f0",
+          "Avdeling": "Kommunalteknikk",
+          "SakTittel": "Trafikksikkerhet - Øvre Frednesveg",
+          "SakNr": "18/04239",
+          "SakId": "18/04239",
+          "Tittel": "Trafikksikkerhet - Øvre Frednesveg - Forespøsel om tiltak",
+          "DokumentNr": "18/04239-1",
+          "DokumentType": "I",
+          "LopeNr": "18812/2018",
+          "Avsendere": [
+            "Sundjordet velforening"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-10T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-10T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Torbjørn Krogstad",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763207",
+              "Tittel": "Trafikksikkerhet - Øvre Frednesveg - Forespøsel om tiltak",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "4f6a4d80-e047-4d47-8234-8ae259256fa7",
+          "Avdeling": "Byutvikling",
+          "SakTittel": "Gbnr. 68/156, Hvalen terrasse 39 - Oppføre enebolig m/utleieenhet",
+          "SakNr": "18/01075",
+          "SakId": "18/01075",
+          "Tittel": "Uttalelse til søknad om dispensasjon - Gbnr. 68/156, Hvalen terrasse 39 - Oppføre enebolig m/utleieenhet",
+          "DokumentNr": "18/01075-7",
+          "DokumentType": "I",
+          "LopeNr": "18850/2018",
+          "Avsendere": [
+            "Fylkesmannen i Telemark"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-04T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-04T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Arne R. Lunde",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763321",
+              "Tittel": "Uttalelse til søknad om dispensasjon - Oppføring av enebolig med utleieenhet - 68/156 - Porsgrunn kommune",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        },
+        {
+          "Id": "ae1b4934-2c86-4cad-8f77-c3d56083fc8a",
+          "Avdeling": "Rådmannen",
+          "SakTittel": "Kontroll - forvaltning av tilskudd i landbruket",
+          "SakNr": "18/04240",
+          "SakId": "18/04240",
+          "Tittel": "Varsel om kontroll - forvaltning av tilskudd i landbruket",
+          "DokumentNr": "18/04240-1",
+          "DokumentType": "I",
+          "LopeNr": "18818/2018",
+          "Avsendere": [
+            "Fylkesmannen i Telemark"
+          ],
+          "Mottakere": [
+            null
+          ],
+          "DokumentDato": "2018-04-04T00:00:00",
+          "JournalDato": "2018-04-12T00:00:00",
+          "PubliseringsDato": "2018-04-04T00:00:00",
+          "Offentlig": true,
+          "Hjemmel": null,
+          "Arkivkode": null,
+          "SakKontaktNavn": "Øistein Brinck",
+          "SakKontaktEpost": null,
+          "Dokumenter": [
+            {
+              "Id": "763227",
+              "Tittel": "Varsel om kontroll - forvaltning av tilskudd i landbruket",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            },
+            {
+              "Id": "763228",
+              "Tittel": "Følgeskriv",
+              "Filendelse": "PDF",
+              "Offentlig": true,
+              "Tilgjengelig": false,
+              "Extensions": null
+            }
+          ],
+          "Extensions": null
+        }
+      ]
+    }
+  }
+}
